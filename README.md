@@ -1,4 +1,4 @@
-### ¡Hey bienvenido a mi repo! 👋
+### ¡Hey bienvenid@ a mi repo! 👋
 Soy Alejo Solis, un desarrollador con mucho gusto por el Backend. Sin embargo aquí, encontrarás de todo un poco. 😄
 
 ---
