@@ -1,5 +1,5 @@
 ### ¡Hey bienvenid@ a mi repo! 👋
-Soy Alejo Solis, un desarrollador con mucho gusto por el Backend. Sin embargo aquí encontrarás de todo un poco. 😄
+Me llamo Alejo, un desarrollador con mucho gusto por el Backend. Sin embargo aquí encontrarás de todo un poco. 😄
 
 ---
 🔭 El lenguaje es sólo una implementación 
