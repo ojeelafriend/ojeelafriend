@@ -4,7 +4,10 @@ Me llamo Alejo, un desarrollador con mucho gusto por el Backend. Sin embargo aqu
 ---
 🔭 El lenguaje es sólo una implementación 
 
-⚡ Estoy trabajando en el challenge de [Goomer](https://github.com/ojeelafriend/job-dev-backend-interview)
+⚡ Proyectos que trabajo actualmente: 
+
+- [Goomer, challenge interview](https://github.com/ojeelafriend/job-dev-backend-interview) 
+- [Un final de la universidad](https://github.com/ojeelafriend/generic-taskapp)
 
 💬 Si en algo puedo ayudarte, [contáctame](https://www.linkedin.com/in/alejo-solis/)
 
