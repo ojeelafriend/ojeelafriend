@@ -7,7 +7,7 @@ Me llamo Alejo, un desarrollador con mucho gusto por el Backend. Sin embargo aqu
 ⚡ Proyectos que trabajo actualmente: 
 
 - [Goomer, challenge interview](https://github.com/ojeelafriend/job-dev-backend-interview) 
-- [Un final de la universidad](https://github.com/ojeelafriend/generic-taskapp)
+- [generic taskapp](https://github.com/ojeelafriend/generic-taskapp)
 
 💬 Si en algo puedo ayudarte, [contáctame](https://www.linkedin.com/in/alejo-solis/)
 
