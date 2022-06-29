@@ -8,6 +8,7 @@ Me llamo Alejo, un desarrollador con mucho gusto por el Backend. Sin embargo aqu
 
 - [Goomer, challenge interview](https://github.com/ojeelafriend/job-dev-backend-interview) 
 - [generic taskapp](https://github.com/ojeelafriend/generic-taskapp)
+- [cdojo](https://github.com/ojeelafriend/cdojo)
 
 💬 Si en algo puedo ayudarte, [contáctame](https://www.linkedin.com/in/alejo-solis/)
 
