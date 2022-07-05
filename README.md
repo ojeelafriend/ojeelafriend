@@ -14,8 +14,7 @@ Me llamo Alejo, un desarrollador con mucho gusto por el Backend. Sin embargo aqu
 
 🌱 Tecnologías utilizadas actualmente
 
-<img src="https://4.bp.blogspot.com/-_YSVTe2ekBU/XKMntJDH0ZI/AAAAAAAAXNk/3d48i_XShWwvoMNj0YJWp2J4_Woh9dzGgCLcBGAs/s1600/reactjs%2Btutorial.png" height=30 width=30/>   <img src="https://cdn.iconscout.com/icon/free/png-256/sass-226054.png" height=30 width=30/>  <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" height=30 width=30/>  <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/typescript@0.0.0/typescript_256x256.png" height=30 width=30/>    <img src="https://davidrengifo.files.wordpress.com/2017/09/mongodb-logo.png" height=30 width=30/>  <img src="https://cdn.iconscout.com/icon/free/png-256/postgresql-226047.png" height=30 width=30/>
-
+<img src="https://digitaldesarrollos.com.mx/wp-content/uploads/2020/03/PHP-Elephant.png" height=30 width=40/><img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" height=30 width=30/> <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/typescript@0.0.0/typescript_256x256.png" height=30 width=30/> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height=32 width=32/> 
 <!--
 **ojeelafriend/ojeelafriend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
