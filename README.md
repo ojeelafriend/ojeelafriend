@@ -1,7 +1,5 @@
 ### ¡Hey bienvenid@ a mi repo! 👋
-Me llamo Alejo, un desarrollador con mucho gusto por el Backend. Sin embargo aquí encontrarás de todo un poco. 😄
 
----
 🔭 El lenguaje es sólo una implementación 
 
 ⚡ Proyectos que trabajo actualmente: 
