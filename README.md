@@ -4,7 +4,7 @@
 
 ⚡ Proyectos que trabajo actualmente: 
 
-- [Goomer, challenge interview](https://github.com/ojeelafriend/job-dev-backend-interview) 
+- [jsdojo](https://github.com/ojeelafriend/jsdojo) 
 - [generic taskapp](https://github.com/ojeelafriend/generic-taskapp)
 - [cdojo](https://github.com/ojeelafriend/cdojo)
 
