@@ -4,9 +4,7 @@
 
 ⚡ Proyectos que trabajo actualmente: 
 
-- [jsdojo](https://github.com/ojeelafriend/jsdojo) 
 - [generic taskapp](https://github.com/ojeelafriend/generic-taskapp)
-- [cdojo](https://github.com/ojeelafriend/cdojo)
 
 💬 Si en algo puedo ayudarte, [contáctame](https://www.linkedin.com/in/alejo-solis/)
 
