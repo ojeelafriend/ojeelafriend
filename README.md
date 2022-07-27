@@ -5,6 +5,7 @@
 ⚡ Proyectos que trabajo actualmente: 
 
 - [generic taskapp](https://github.com/ojeelafriend/generic-taskapp)
+- [warchief API](https://github.com/ojeelafriend/warchief)
 
 💬 Si en algo puedo ayudarte, [contáctame](https://www.linkedin.com/in/alejo-solis/)
 
