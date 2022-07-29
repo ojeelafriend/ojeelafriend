@@ -6,7 +6,7 @@
 
 - [generic taskapp](https://github.com/ojeelafriend/generic-taskapp)
 - [warchief API](https://github.com/ojeelafriend/warchief)
-- [grimchat](https://github.com/ojeelafriend/grimchat)
+- [grimchat](https://github.com/macabrecode/grimchat)
 
 💬 Si en algo puedo ayudarte, [contáctame](https://www.linkedin.com/in/alejo-solis/)
 
