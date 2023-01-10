@@ -1,6 +1,6 @@
 ### ¡Hey bienvenid@ a mi repo! 👋
 
-🔭 El lenguaje es sólo una implementación 
+⚡ Donde hay un error, existe una oportunidad de aprender.
 
 💬 Si en algo puedo ayudarte, [contáctame](https://www.linkedin.com/in/alejo-solis/)
 <!--
