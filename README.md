@@ -1,6 +1,6 @@
 ### ¡Hey bienvenid@ a mi repo! 👋
 
-⚡ Donde hay un error, existe una oportunidad de aprender
+⚡ Donde hay un error, existe la oportunidad de aprender
 
 💬 Si en algo puedo ayudarte, [contáctame](https://www.linkedin.com/in/alejo-solis/)
 <!--
